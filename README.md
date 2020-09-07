@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/3o6ZsX2OZJ8G3Tec6Y/giphy.gif" alt="Me with a computer" width="50%">
+<img src="https://media.giphy.com/media/26tPcRGbvMEcKmrRe/giphy.gif" alt="Trying another package" width="100%">
 
 <!--
 **daanmooij/daanmooij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
